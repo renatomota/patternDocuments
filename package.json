@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/renatomota/patternDocuments/issues"
   },
-  "homepage": "https://github.com/renatomota/patternDocuments#readme"
+  "homepage": "https://github.com/renatomota/patternDocuments#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5"
+  }
 }
