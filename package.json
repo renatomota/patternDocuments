@@ -1,0 +1,19 @@
+{
+  "name": "patterndocuments",
+  "version": "0.1.0",
+  "description": "Pattern de documentos, telefones, moedas e datas PT-BR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatomota/patternDocuments.git"
+  },
+  "author": "Renato Mota da Silva Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatomota/patternDocuments/issues"
+  },
+  "homepage": "https://github.com/renatomota/patternDocuments#readme"
+}
